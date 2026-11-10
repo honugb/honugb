@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm a DevOps & AWS Cloud Engineer 👋
 
-<!--
-**honugb/honugb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps | AWS | Kubernetes | Terraform | Jenkins | Docker | CI/CD
 
-Here are some ideas to get you started:
+I am passionate about cloud infrastructure, automation, Kubernetes orchestration and building reliable CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on implementing scalable cloud solutions, automating infrastructure provisioning, improving deployment efficiency and troubleshooting real-world infrastructure challenges.
+
+## 🛠 Technical Skills
+
+**Cloud:** AWS EC2, VPC, IAM, S3, Load Balancing, CloudWatch
+
+**CI/CD:** Jenkins, GitHub Actions, Maven
+
+**Containers:** Docker, Kubernetes, Helm
+
+**Infrastructure as Code:** Terraform
+
+**Operating Systems:** Linux, Ubuntu, Amazon Linux
+
+**Monitoring:** Prometheus, Grafana
+
+**Version Control:** Git, GitHub
+
+**Scripting:** Bash, Python
+
+## 🚀 Featured Projects
+
+### 1. Spring Boot & MongoDB CI/CD on Kubernetes
+Automated application build and deployment using Jenkins, Maven, Docker Hub and a self-managed Kubernetes cluster on AWS EC2.
+
+### 2. AWS Infrastructure Automation with Terraform
+Reusable Terraform modules for provisioning secure AWS infrastructure.
+
+### 3. Kubernetes GitOps with Helm and Argo CD
+Standardized multi-environment application deployment, configuration management and release automation.
+
+## 📚 Currently Exploring
+
+- Kubernetes high availability and disaster recovery
+- GitOps and platform engineering
+- DevSecOps automation
+- Cloud infrastructure observability
+
+## 🎯 Engineering Goals
+
+Build reliable, secure and automated cloud-native systems using modern DevOps practices.
+
+---
+
+*Explore my repositories for implementation guides, architecture diagrams, automation scripts and troubleshooting case studies.*
